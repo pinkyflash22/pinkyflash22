@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Chris 👋
 
-<!--
-**pinkyflash22/pinkyflash22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Information Technology Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Philippines
+
+## 🚀 Currently Learning
+
+- React
+- Laravel
+- Flutter
+- AI Integration
+- Machine Learning
+
+## 🌱 Current Project
+
+AI Resume Builder
+
+PyroSense - Predictive Analytics and Response Management System
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinkyflash22&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinkyflash22&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=pinkyflash22)
+
+LinkedIn
+
+Portfolio
+
+Email
+
+![Visitors](https://komarev.com/ghpvc/?username=pinkyflash22)
