@@ -11,6 +11,11 @@
 - React
 - Laravel
 - Flutter
+- Python
+- Java
+- Node Js
+- Next Js
+- AWS
 - AI Integration
 - Machine Learning
 
