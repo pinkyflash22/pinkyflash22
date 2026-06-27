@@ -22,7 +22,7 @@
 ## 🌱 Current Project
 
 AI Resume Builder
-
+BizCore - Inventory, Sales, Payroll and Attendance Management System : https://loverspizza.vercel.app/
 PyroSense - Predictive Analytics and Response Management System
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
